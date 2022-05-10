@@ -91,14 +91,14 @@
 
     .split.left {
         left: 0;
-        background: url('ps.jpg');
+        background: url('images/ps.jpg');
         background-repeat: no-repeat;
         background-size: cover;
       }
 
       .split.right {
         right: 0;
-        background: url('xbox.jpg');
+        background: url('images/xbox.jpg');
         background-repeat: no-repeat;
         background-size: cover;
       }
